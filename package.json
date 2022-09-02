@@ -1,6 +1,6 @@
 {
 	"name": "UmaruBot",
-	"version": "1.1.1, 2.0.2",
+	"version": "7.3.1",
 	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
 	"main": "mirai.js",
 	"scripts": {
